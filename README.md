@@ -1,2 +1,3 @@
 # Jogo_da_cobrinha_JS
-img https://github.com/Mateuss18/Jogo_da_cobrinha_JS/blob/main/.github/Jogo%20da%20cobrinha.png
+![Jogo da cobrinha](https://user-images.githubusercontent.com/71786964/126386753-bc2721ee-a59e-4fd8-b20a-81b98245de0f.png)
+
