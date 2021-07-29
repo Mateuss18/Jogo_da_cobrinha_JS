@@ -1,3 +1,2 @@
-# Jogo_da_cobrinha_JS
-![Jogo da cobrinha](https://user-images.githubusercontent.com/71786964/126386753-bc2721ee-a59e-4fd8-b20a-81b98245de0f.png)
-
+# Jogo da cobrinha feito em JavaScript
+![Jogo da cobrinha](https://user-images.githubusercontent.com/71786964/127561699-1c0b12cf-0b26-4049-8b97-317715584fee.png)
